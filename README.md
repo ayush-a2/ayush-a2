@@ -14,9 +14,7 @@
 
 - 👨‍💻 All of my projects are available at my [ayush-a2.github.io](https://ayush-a2.github.io/)
 - 📫 How to reach me **ayush8583@gmail.com**
-
-- 📄 Have a look at my [Resume]([https://drive.google.com/file/d/1U-Q7IM4qbw90OQSpgbbfruVExkA69Kdo/view?usp=share_link](https://drive.google.com/drive/folders/1l-lJR9ymSjroR6jm2wA0H3zE0nXB-_dl?usp=share_link))
-
+- 📄 Have a look at my [Resume](https://drive.google.com/drive/folders/1l-lJR9ymSjroR6jm2wA0H3zE0nXB-_dl?usp=share_link)
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-gupta-45841b23b)
 
 <!-- - 💬 ask me about Java -->
